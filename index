@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>In-Flight Entertainment</title>
+        <meta name="Airlines"/>
+        
+        <style type="text/css">
+            header {
+                background-color: #ebe2aa;
+                text-align: center;
+            }
+            nav {
+                background-color: #d4d5d7;   
+            }
+            
+            li {
+                display: inline;
+                margin: 10px;
+                
+            }
+            
+            a {
+              color: #383e6e;
+              text-decoration: none;
+            }
+            body{
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+            footer{
+                font-size: 8px;
+            }
+            figure{
+                font-size: 12px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h2>Passengers Expect More then Movies and TV</h2>
+            <nav>
+                <ul>
+                    <li><a href="">In-Flight Entertainment</a></li>
+                    <li><a href="">Connectivitiy</a></li>
+                    <li><a href="">Passenger Devices</a></li>               
+                </ul>
+            </nav>
+        </header>
+            
+        
+        <h3 style="text-align:center">Airlines find a new source of revenue and loyalty in connectivity.</h3>
+        <article>
+            <figure  style="float:left; margin-right:10px">
+            
+            <img src="In-flight_entertainment.jpg" alt="Seatback screens"/>
+                <figcaption>American Airlines IFE System</figcaption>
+                </figure>
+            <p>Over the last decade airlines have been busy adding seatback screens and on-demand entertainment options to their fleets. As a result customers have come to expect a living room experience when they fly. Albeit a much more cramped living room experience. However, all of this comes at a price. Not just in system and installation but operation, maintenance and weight.</p>
+            <p>Seat-back systems can cost as much as $6 million and weigh as much as 600 pounds per plane, depending on the size of the aircraft. But the systems can generate hefty revenues by letting passengers buy food, drinks and entertainment with a touch of the screen.</p>
+            <p>Industry experts predict that more airlines will remove the heavy and expensive seat-back entertainment systems and rely only on onboard Wi-Fi and streaming systems as the technology for wireless streaming improves to eliminate Internet slowdown. Airlines that offer only onboard Internet call their entertainment strategy BYOD, or Bring Your Own Device. Onboard Wi-Fi systems weigh only 70 or 80 pounds.</p>
+        </article>
+    </body>
+    <footer>hugo.martin@latimes.com</footer>
+</html>
